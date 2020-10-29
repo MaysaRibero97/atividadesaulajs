@@ -10,3 +10,4 @@ let hello = HELLO + "World";
 
 //forma de impressão por console
 console.log(hello);
+//aulas de JavaScript
